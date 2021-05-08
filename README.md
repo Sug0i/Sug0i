@@ -8,13 +8,13 @@ I develop web projects, automation scripts and much more
  but I really like is  develop machine learning projects
 
 ## Technologies
-<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-python-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-html-5-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-javascript-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-git-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-tensorflow-48.svg"  />
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-python-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-html-5-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-javascript-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-git-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-tensorflow-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-django-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-github.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-google-cloud.svg"  />
 
 
 
 
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  />
 
-<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-64.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-javascript-logo.svg"  />
 
 
 ##
