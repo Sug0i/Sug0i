@@ -1,8 +1,7 @@
 <img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/3082216.gif" width="1000px" height="200px" />
-
 <img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/unnamed.png" width="200px" align="right" />
 
-## teste
+## hi I'm Sug0i 🌷
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
