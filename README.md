@@ -13,9 +13,12 @@ I develop web projects, automation scripts and much more
 
 
 
-<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  />
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-bootstrap.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-visual-studio-code-2019.svg"  />
 
 
+
+## Connect whit me
+jiajdijads
 
 ##
 
