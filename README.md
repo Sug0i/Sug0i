@@ -1,5 +1,5 @@
-<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/3082216.gif" width="1000px" height="200px" />
-<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/unnamed.png" width="200px" align="right" />
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/HV7xOwu.gif"  />
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/hypedemais.gif" width="250px" align="right" />
 
 ## hi I'm Sug0i 🌷
 
