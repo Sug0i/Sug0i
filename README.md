@@ -6,10 +6,16 @@
 
 I develop web projects, automation scripts and much more
  but I really like is  develop machine learning projects
- 
+
 ## Technologies
-asdasdas
- 
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-python-48.svg"  />
+
+
+
+
+
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-64.svg"  />
+
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sug0i&theme=dracula)](https://github.com/Sug0i/github-readme-stats)
