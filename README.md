@@ -7,10 +7,10 @@
 
 ## 🌷 hi I'm Sug0i 🌷
 
-I develop web projects, automation scripts and much more
+#### I develop web projects, automation scripts and much more
  but I really like is  develop machine learning projects
 
-## Technologies
+## ✨ Technologies
 <img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-python-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-html-5-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-javascript-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-git-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-tensorflow-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-django-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-github.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-google-cloud.svg"  />
 
 
@@ -20,13 +20,13 @@ I develop web projects, automation scripts and much more
 
 
 
-## Connect whit me
+## ❤️ Connect whit me
 <a href="" target="blank_" ><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-gmail.svg" /></a><a href="" target="blank_" ><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-linkedin-64.svg" /></a><a href="" target="blank_" ><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-twitter-64.svg" /></a>
 
 
-##
 
-<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sug0i&theme=dracula)](https://github.com/Sug0i/github-readme-stats)  --->
+
+ 
 
 
 
