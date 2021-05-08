@@ -1,6 +1,6 @@
 <img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/3082216.gif" width="1000px" height="200px" />
 
-<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/2625000-middle.png" width="250px" height="500px" align="right" />
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/unnamed.png" width="200px" align="right" />
 
 ## teste
 
