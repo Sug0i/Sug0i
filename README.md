@@ -1,6 +1,6 @@
-<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/3082216.gif" width="1000px" height="200px" />
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/3082216.gif" width="1000px" height="250px" />
 
-<br>
+
 
    <img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/d8c40ef811ec3338200327e9397ed569bf69f602r1-320-198_00.gif" width="250px" align="right" />
 
