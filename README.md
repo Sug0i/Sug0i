@@ -22,7 +22,7 @@
 
 
 
-## ❤️ Connect whit me
+## 🙃 Connect whit me
 <a href="" target="blank_" ><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-gmail.svg" /></a><a href="" target="blank_" ><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-linkedin-64.svg" /></a><a href="" target="blank_" ><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-twitter-64.svg" /></a>
 
 
