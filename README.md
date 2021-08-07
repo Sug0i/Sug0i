@@ -28,7 +28,9 @@
  height="30"></a>
 
 ## te
-[<img width="400" alt="🦑" src="https://github.com/Sug0i/Sug0i/blob/master/metrics.svg">](https://github.com/Sug0i/metrics)
+[<img align="left" width="400" alt="🦑" src="https://github.com/Sug0i/Sug0i/blob/master/github-metrics.svg">](https://github.com/Sug0i/metrics)
+
+<img align="right" width="350" alt="🦑" src="https://count.getloli.com/get/@:Sug0i?theme=rule34">
 
 <!---
 ## test
