@@ -27,6 +27,8 @@
 <a href="https://instagram.com/_lucas_caua/"><img alt="instagram Sugoi_Desuu" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
  height="30"></a>
 
+## te
+[<img width="400" alt="🦑" src="https://github.com/Sug0i/Sug0i/blob/master/metrics.svg">](https://github.com/Sug0i/metrics)
 
 <!---
 ## test
