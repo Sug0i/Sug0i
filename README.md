@@ -23,12 +23,16 @@
 
 
 ## 🙃 Connect whit me
-<a href="https://www.instagram.com/_lucas_caua/" target="blank_" ><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-instagram.svg" /></a><a href="https://twitter.com/Sugoi_Desuu" target="blank_" ><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-twitter-64.svg" /></a>
+<a href="https://twitter.com/Sugoi_Desuu"><img alt="twitter Sugoi_Desuu" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" ></a>
+<a href="https://instagram.com/_lucas_caua/"><img alt="instagram Sugoi_Desuu" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+ height="30"></a>
 
 
+<!---
+## test
+![Sug0i](https://count.getloli.com/get/@Sug0i?theme=rule34)
+<img src="https://count.getloli.com/get/@Sug0i?theme=rule34" alt="Sug0i Counter" width="250"/>
 
-
- 
 
 
 
