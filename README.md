@@ -8,7 +8,7 @@
 ## 🌷 hi I'm Sug0i 🌷
 
 #### I develop web projects, automation scripts and much more
-#### but I really like is  develop machine learning projects
+#### but I really like is  develop machine learning and deep learning projects
 
 <br>
 
